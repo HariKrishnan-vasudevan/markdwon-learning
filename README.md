@@ -125,4 +125,4 @@ trying both the ***bold and italic*** emphasis in paragraph
 <!--Task list  -->
 - [x] task 1
 - [x] task 2
-- [] task 3
+- [ ] task 3
